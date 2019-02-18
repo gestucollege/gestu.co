@@ -1,5 +1,6 @@
 .env
 .DS_Store
+/tmp
 
 # Don't include binaries
 gestu.co
